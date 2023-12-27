@@ -90,7 +90,7 @@
       }
     }
   }
-  .cloumn-2 .goods__item {
+  /deep/ .cloumn-2 .goods__item {
     width: 49%;
     margin-left: 10upx;
     &:nth-of-type(2n + 1) {
@@ -98,7 +98,7 @@
     }
   }
 
-  .cloumn-3 .goods__item {
+  /deep/ .cloumn-3 .goods__item {
     width: 32%;
     margin-left: 10upx;
     &:nth-of-type(3n + 1) {
@@ -106,7 +106,7 @@
     }
   }
 
-  .goods__item {
+  /deep/ .goods__item {
     padding: 30upx;
     box-sizing: border-box;
     background-color: #ffffff;
