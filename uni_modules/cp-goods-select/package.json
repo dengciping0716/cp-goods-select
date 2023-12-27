@@ -1,12 +1,12 @@
 {
   "id": "cp-goods-select",
   "displayName": "商品分类展示组件",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "该组件是一款实用性的分类商品展示组件,适用于需要多层分类的场景,支持滑动自动选中，自定义菜单和商品展示等功能 。基于 HBuilderX 3.1.0+ 的uni_modules 模块开发。",
   "keywords": [
     "商品分类，分类选择，商品选择"
 ],
-  "repository": "",
+  "repository": "https://github.com/dengciping0716/cp-goods-select",
   "engines": {
     "HBuilderX": "^3.3.10"
   },
